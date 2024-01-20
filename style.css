@@ -1,0 +1,43 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif; /* Updated font-family */
+    margin: 0;
+    padding: 0;
+}
+
+header, section, footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Nanum Gothic', sans-serif; /* Updated font-family */
+}
+
+section {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #fff;
+    font-family: 'Nunito Sans', sans-serif; /* Updated font-family */
+}
